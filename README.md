@@ -1,4 +1,4 @@
-# srk_imaging
+# Social Relationship Knowledge - Imaging
 
 # Preprocessing
  - preprocessing_hpc.sh
